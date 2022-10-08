@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+  }
+  h3 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+.Image{
+    width: 500px;
+    height: 500px;
+}
